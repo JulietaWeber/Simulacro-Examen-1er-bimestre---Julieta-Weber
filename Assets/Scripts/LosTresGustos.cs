@@ -5,7 +5,7 @@ using UnityEngine;
 public class LosTresGustos : MonoBehaviour
 {
     public string saborElegido;
-    public float cantidadDeHelado;
+    public int cantidadDeHelado;
 
     string chocolate = "CHO";
     string frutilla = "FRU";
