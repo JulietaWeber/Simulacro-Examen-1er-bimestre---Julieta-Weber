@@ -141,8 +141,8 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: c1d64858759cb8045bebb213a1193ca2, type: 3}
   m_Name: 
   m_EditorClassIdentifier: 
-  saborElegido: CHO
-  cantidadDeHelado: 500
+  saborElegido: FRU
+  cantidadDeHelado: 1000
 --- !u!4 &307346091
 Transform:
   m_ObjectHideFlags: 0

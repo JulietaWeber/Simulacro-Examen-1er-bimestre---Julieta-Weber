@@ -30,11 +30,11 @@ public class LosTresGustos : MonoBehaviour
         if (saborElegido == "CHO" || saborElegido == "DDL")
         {
             valorTotal = valorDelGramo * cantidadDeHelado;
-            Debug.Log(valorTotal);
+            Debug.Log("Precio total: $" + valorTotal);
         }else if (saborElegido == "FRU")
         {
             valorTotal = valorDelGramo * (cantidadDeHelado * 0.9f);
-            Debug.Log(valorTotal);
+            Debug.Log("Precio total: $" + valorTotal);
         }
     }
 
