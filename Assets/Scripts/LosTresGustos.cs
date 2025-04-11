@@ -20,7 +20,8 @@ public class LosTresGustos : MonoBehaviour
         {
             Debug.Log("Error");
             return;
-        }else if (cantidadDeHelado < 250 || cantidadDeHelado > 3000)
+        }
+        if (cantidadDeHelado < 250 || cantidadDeHelado > 3000)
         {
             Debug.Log("Error");
             return;
